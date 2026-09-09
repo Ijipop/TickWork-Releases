@@ -1,11 +1,11 @@
 {
-  "version": "0.0.9",
-  "notes": "Plus de gel au changement de mode. La palette du projet colore vraiment la fenetre. Apparence = clair/sombre.",
-  "pub_date": "2026-09-09T20:08:16Z",
+  "version": "0.0.10",
+  "notes": "Calendrier avec pastilles projet. Teintes lisibles. Edition par segment. MAJ sans reinstaller WebView2.",
+  "pub_date": "2026-09-09T21:02:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTVoL0hmYnFiQkU4RGZsaG0zWnl5eHNQTDhPOTBOd2xBaFRXb202RFJrRU9vQWhya3lkREJvalZRa1g4eWVDMWo1bnJGSVpQYVpWaGg3K1E1bVJKdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg0NDU1CWZpbGU6VGlja1dvcmtfMC4wLjlfeDY0LXNldHVwLmV4ZQo5dno2K0VEc1hLZWF3Qk1xMGY0TWRDY1A2VE1UaEo3OVNMR2ZFdkowQ0IzMjd2b3N1dW4vc2dnMm0xWDdpd1g2YjZSQ1A4dDNMVHBpd0dGU29naVdBZz09Cg==",
-      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.0.9/TickWork_0.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaStkZEl1Mm4rd2Jqb0twNHVZRU9RSmg0bEJXQ0d0WlNpVTRMWnpSTFpWa3lhaG9CYXh2UUNPUW9NTy9FNisySWdmWHBDbm8wUk5jdWZTMGpJb3NSTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg3NzIyCWZpbGU6VGlja1dvcmtfMC4wLjEwX3g2NC1zZXR1cC5leGUKR2VsTnNyTVFCYmUvdjhOMnRkdlhGc3RyMGdIVHllN3ZSM2U0SWZFREN1YWR4aGgyMVkvTGh5MlZFRVhoWXlKK2dHQlZnSkg0cHJpUVdQdUVya254Q0E9PQo=",
+      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.0.10/TickWork_0.0.10_x64-update.exe"
     }
   }
 }
