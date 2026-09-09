@@ -1,11 +1,11 @@
 {
-  "version": "0.0.11",
-  "notes": "Correctif du gel au changement de fenetre. Teinte hero papier/charbon lisible.",
-  "pub_date": "2026-09-09T21:43:00Z",
+  "version": "0.2.0",
+  "notes": "Compagnon quotidien: reorder, archives, semaine, oubli, idle au premier lancement, rappel timer arrete, plage CSV.",
+  "pub_date": "2026-09-09T22:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaSt2bHAzbkhnYUgzY0dwbURiSExSNEZVeHExVDVWYmIzb3RWSGNjSXBUTC91cjI0U05jcmoyN1phcDUzN2pJMmNRdWs1dkRWekFsd0g2OFpHMGVmYWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkwMTIyCWZpbGU6VGlja1dvcmtfMC4wLjExX3g2NC1zZXR1cC5leGUKZENxK092dk9uUHRGMWJ4UFVLZE9WY2IzZ1kzRHV0ZjdqYTR1K0JYQ2JGYXBaWnBZZnFmZ3RwbStwMi85cUdKSk04S0pHWTFKSUJKWnV2RXRaSm1jQUE9PQo=",
-      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.0.11/TickWork_0.0.11_x64-update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaXdJU1NXckIvaGM2dmdPcmJWa1ZKQWpXeTloRXY1eHphenR6QWgyNFcxRUFWVGJISDFPRmYvaUVGZGtrWHpxMjBrdEpQalpKVmtBait4aXk1b3JMWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkzNzI2CWZpbGU6VGlja1dvcmtfMC4yLjBfeDY0LXNldHVwLmV4ZQpmeDZhK0w5VlEyTVE1VXM4WFBjeFJISE1wUXYxNDNVQ3VUc0RuM3Q3MGlWR2JKTW55a1IyRUtRWUpwWnNhamZLdEYxR1JpdWlmdDRpWWR4QnlMRHREUT09Cg==",
+      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.0/TickWork_0.2.0_x64-update.exe"
     }
   }
 }
