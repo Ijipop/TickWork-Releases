@@ -1,11 +1,11 @@
 {
-  "version": "0.0.8",
-  "notes": "Feed updater via raw GitHub. Messages d erreur courts. Accordéons utilisables.",
-  "pub_date": "2026-09-09T18:57:43Z",
+  "version": "0.0.9",
+  "notes": "Plus de gel au changement de mode. La palette du projet colore vraiment la fenetre. Apparence = clair/sombre.",
+  "pub_date": "2026-09-09T20:08:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTVnZVVhOHd5aXZwUUhwOVloWVZyUHB6cWYyKzk1WFZvNmhVMWFNRk0razB0V0NRTGh0MTFVSWZMdEtibVp4anRSTVoxYk41a3dDakZveVgwYUZuTXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTgwMjU1CWZpbGU6VGlja1dvcmtfMC4wLjhfeDY0LXNldHVwLmV4ZQpPRHBFQlB4Y2VEaHBpTXp1aEl1eWY2d05PMk9icGg1aE1Nd1ZFRXEwMUF1dDVldmZXNldqMTFJcDRJclJwSDJnbGpMbXhFeEt1OEF6a1VGckRJQkpBUT09Cg==",
-      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.0.8/TickWork_0.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTVoL0hmYnFiQkU4RGZsaG0zWnl5eHNQTDhPOTBOd2xBaFRXb202RFJrRU9vQWhya3lkREJvalZRa1g4eWVDMWo1bnJGSVpQYVpWaGg3K1E1bVJKdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg0NDU1CWZpbGU6VGlja1dvcmtfMC4wLjlfeDY0LXNldHVwLmV4ZQo5dno2K0VEc1hLZWF3Qk1xMGY0TWRDY1A2VE1UaEo3OVNMR2ZFdkowQ0IzMjd2b3N1dW4vc2dnMm0xWDdpd1g2YjZSQ1A4dDNMVHBpd0dGU29naVdBZz09Cg==",
+      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.0.9/TickWork_0.0.9_x64-setup.exe"
     }
   }
 }
