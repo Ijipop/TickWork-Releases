@@ -1,0 +1,11 @@
+{
+  "version": "0.0.7",
+  "notes": "Accordeons des reglages qui s ouvrent vraiment. Plus de toast URL GitHub sur le timer.",
+  "pub_date": "2026-09-09T18:09:52Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTl3MTVYTDZlakU4UE5JZzBJYTFLb1kvNGtlcmxCa1ZPcktXMlFnWUVZVm5jeGNaNUo2OE8zMi9qN3JvSGV4d2YxTU1oSVVoR0pKR2k1U3ZoUHBDdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTc3MzgzCWZpbGU6VGlja1dvcmtfMC4wLjdfeDY0LXNldHVwLmV4ZQpSQ3dIczJQeDlaZUFUcFJiUEtKejNrOHphbC85ZVlpc3FOeXVaQ2oyOWx2clhzQllDbEZpTHcxSHFEQ0VGVUJRTEQ0dEtzTGRBNXhSTjJNT1dVZ0ZCUT09Cg==",
+      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.0.7/TickWork_0.0.7_x64-setup.exe"
+    }
+  }
+}
