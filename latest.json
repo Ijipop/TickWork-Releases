@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Compagnon quotidien: reorder, archives, semaine, oubli, idle au premier lancement, rappel timer arrete, plage CSV.",
-  "pub_date": "2026-09-09T22:45:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaXdJU1NXckIvaGM2dmdPcmJWa1ZKQWpXeTloRXY1eHphenR6QWgyNFcxRUFWVGJISDFPRmYvaUVGZGtrWHpxMjBrdEpQalpKVmtBait4aXk1b3JMWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkzNzI2CWZpbGU6VGlja1dvcmtfMC4yLjBfeDY0LXNldHVwLmV4ZQpmeDZhK0w5VlEyTVE1VXM4WFBjeFJISE1wUXYxNDNVQ3VUc0RuM3Q3MGlWR2JKTW55a1IyRUtRWUpwWnNhamZLdEYxR1JpdWlmdDRpWWR4QnlMRHREUT09Cg==",
-      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.0/TickWork_0.2.0_x64-update.exe"
-    }
-  }
+    "version":  "0.2.1",
+    "notes":  "Une seule fenetre: Mini et Discret restent, plus de gel Ne repond pas.",
+    "pub_date":  "2026-09-09T23:45:00Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaS9Icmp1SW9OOXREOFErUVNTeWttWDVHai9LOVh4R01BdjgwOHM2TjFGTUhtcmpxVWVmZkw1V1NBQUlFUTVrL29OSTZlc2VHMWdFdCtzNlpOWFBvK2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk3Mzk5CWZpbGU6VGlja1dvcmtfMC4yLjFfeDY0LXNldHVwLmV4ZQpRc1V1Tmw2MXpGSU9mT0YvUFVLc3N2T25LZSswMlF1UWNITEh6OGJWUG1tSXZlNGwyNjBkVzR6M2Y3dFVmSGZTOXV3VzhKTlBPNjRXNzN0WHNhVVNBZz09Cg==",
+                                             "url":  "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.1/TickWork_0.2.1_x64-update.exe"
+                                         }
+                  }
 }
