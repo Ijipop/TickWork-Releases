@@ -1,15 +1,15 @@
 {
+  "pub_date": "2026-09-10T14:12:42.5831840Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.4/TickWork_0.2.4_x64-update.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTRDU1IxcmZBMXBTNmNSbkFTYnZkUWNMdktSVnlHZ1g3N2laMVBSamNPVmpjNHJYTU5XQVVlc3JzV3pBNHNrUUJmVnlDMURMN3ZLaS9tREFYYTB1dmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDEzNjIwCWZpbGU6VGlja1dvcmtfMC4yLjRfeDY0LXNldHVwLmV4ZQpmRUNLTjR6aVMxQWNzR2xUbnJFQjM1TUluSjNQVi93MmVFbkVkVCtiRWlpYmxBbkpjL0ROMk83bU9kRkdsajV3M0lVU2pnNDFtVC9BY3RocFQ3WnFCUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTVXNkxmSmpsc3dnanlBZVIxazMrcDNFekdQVDZITFpES00yQ3RESmJWdkdNNXFBRDZOcDVLRWxhelpwRERiTHJtMUVKZStLNjk4dGxGRHJKbFhFY0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ5NTUzCWZpbGU6VGlja1dvcmtfMC4yLjVfeDY0LXNldHVwLmV4ZQppOEJTekFBMktzOStxc3ZNRHdQQUJxbFpKZk9zYW1sTWl3UkdmOW9FNnBEQkM4ejl0Wk96L0FwYk5tT0xOOGxNak9uNmJOSnNMZm1kNTVGS0ZVeTVDdz09Cg==",
+      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.5/TickWork_0.2.5_x64-update.exe"
     },
     "windows-x86_64": {
-      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.4/TickWork_0.2.4_x64-update.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTRDU1IxcmZBMXBTNmNSbkFTYnZkUWNMdktSVnlHZ1g3N2laMVBSamNPVmpjNHJYTU5XQVVlc3JzV3pBNHNrUUJmVnlDMURMN3ZLaS9tREFYYTB1dmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDEzNjIwCWZpbGU6VGlja1dvcmtfMC4yLjRfeDY0LXNldHVwLmV4ZQpmRUNLTjR6aVMxQWNzR2xUbnJFQjM1TUluSjNQVi93MmVFbkVkVCtiRWlpYmxBbkpjL0ROMk83bU9kRkdsajV3M0lVU2pnNDFtVC9BY3RocFQ3WnFCUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMVIwbGFsU0VzaTVXNkxmSmpsc3dnanlBZVIxazMrcDNFekdQVDZITFpES00yQ3RESmJWdkdNNXFBRDZOcDVLRWxhelpwRERiTHJtMUVKZStLNjk4dGxGRHJKbFhFY0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ5NTUzCWZpbGU6VGlja1dvcmtfMC4yLjVfeDY0LXNldHVwLmV4ZQppOEJTekFBMktzOStxc3ZNRHdQQUJxbFpKZk9zYW1sTWl3UkdmOW9FNnBEQkM4ejl0Wk96L0FwYk5tT0xOOGxNak9uNmJOSnNMZm1kNTVGS0ZVeTVDdz09Cg==",
+      "url": "https://github.com/Ijipop/TickWork-Releases/releases/download/v0.2.5/TickWork_0.2.5_x64-update.exe"
     }
   },
-  "pub_date": "2026-09-10T04:13:41.1676489Z",
-  "version": "0.2.4",
-  "notes": "Mise à jour légère de TickWork."
+  "notes": "Mise à jour légère de TickWork.",
+  "version": "0.2.5"
 }
